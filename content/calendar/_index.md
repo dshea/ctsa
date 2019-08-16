@@ -1,11 +1,11 @@
 ---
-title: "Events"
+title: "Calendar"
 description: "List of the events for this year"
 type: page
 featured_image: "/images/EventsPage.jpg"
 ---
 
-# Events for 2019
+# Calendar for 2019
 
 - March 24th, Ice Breaker Gam
 - April 17th, Sinking of the Titanic Mugs Up
